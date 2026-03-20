@@ -1,0 +1,21 @@
+{
+  "difficulty": "Medium",
+  "folder_name": "Champagne Tower",
+  "frontend_id": "799",
+  "language": "python3",
+  "leetcode_url": "https://leetcode.com/problems/champagne-tower/",
+  "placeholder_reason": null,
+  "solution_file": "solution.py",
+  "submission_fetch_status": "retrieved",
+  "submission_id": "1919299839",
+  "submitted_code_retrieved": true,
+  "synced_at": "2026-03-20T21:50:26.712361Z",
+  "title": "Champagne Tower",
+  "title_slug": "champagne-tower",
+  "topic_tags": [
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    }
+  ]
+}

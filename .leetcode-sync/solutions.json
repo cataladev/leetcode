@@ -9,6 +9,15 @@
       "title": "Balance a Binary Search Tree",
       "title_slug": "balance-a-binary-search-tree"
     },
+    "champagne-tower": {
+      "commit_message": "Add LeetCode solution: Champagne Tower",
+      "folder_name": "Champagne Tower",
+      "solution_file": "solution.py",
+      "submitted_code_retrieved": true,
+      "synced_at": "2026-03-20T21:50:26.712361Z",
+      "title": "Champagne Tower",
+      "title_slug": "champagne-tower"
+    },
     "container-with-most-water": {
       "commit_message": "Add LeetCode solution: Container With Most Water",
       "folder_name": "Container With Most Water",
