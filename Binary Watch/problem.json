@@ -1,0 +1,25 @@
+{
+  "difficulty": "Easy",
+  "folder_name": "Binary Watch",
+  "frontend_id": "401",
+  "language": "python3",
+  "leetcode_url": "https://leetcode.com/problems/binary-watch/",
+  "placeholder_reason": null,
+  "solution_file": "solution.py",
+  "submission_fetch_status": "retrieved",
+  "submission_id": "1922626567",
+  "submitted_code_retrieved": true,
+  "synced_at": "2026-03-20T21:50:30.369931Z",
+  "title": "Binary Watch",
+  "title_slug": "binary-watch",
+  "topic_tags": [
+    {
+      "name": "Backtracking",
+      "slug": "backtracking"
+    },
+    {
+      "name": "Bit Manipulation",
+      "slug": "bit-manipulation"
+    }
+  ]
+}

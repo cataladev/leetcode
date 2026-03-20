@@ -18,6 +18,15 @@
       "title": "Balance a Binary Search Tree",
       "title_slug": "balance-a-binary-search-tree"
     },
+    "binary-watch": {
+      "commit_message": "Add LeetCode solution: Binary Watch",
+      "folder_name": "Binary Watch",
+      "solution_file": "solution.py",
+      "submitted_code_retrieved": true,
+      "synced_at": "2026-03-20T21:50:30.369931Z",
+      "title": "Binary Watch",
+      "title_slug": "binary-watch"
+    },
     "champagne-tower": {
       "commit_message": "Add LeetCode solution: Champagne Tower",
       "folder_name": "Champagne Tower",
