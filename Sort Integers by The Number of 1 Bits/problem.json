@@ -1,0 +1,33 @@
+{
+  "difficulty": "Easy",
+  "folder_name": "Sort Integers by The Number of 1 Bits",
+  "frontend_id": "1356",
+  "language": "python3",
+  "leetcode_url": "https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/",
+  "placeholder_reason": null,
+  "solution_file": "solution.py",
+  "submission_fetch_status": "retrieved",
+  "submission_id": "1931122928",
+  "submitted_code_retrieved": true,
+  "synced_at": "2026-03-20T21:50:39.190769Z",
+  "title": "Sort Integers by The Number of 1 Bits",
+  "title_slug": "sort-integers-by-the-number-of-1-bits",
+  "topic_tags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Bit Manipulation",
+      "slug": "bit-manipulation"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    },
+    {
+      "name": "Counting",
+      "slug": "counting"
+    }
+  ]
+}

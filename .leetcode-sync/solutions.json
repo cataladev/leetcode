@@ -153,6 +153,15 @@
       "title": "Reverse Bits",
       "title_slug": "reverse-bits"
     },
+    "sort-integers-by-the-number-of-1-bits": {
+      "commit_message": "Add LeetCode solution: Sort Integers by The Number of 1 Bits",
+      "folder_name": "Sort Integers by The Number of 1 Bits",
+      "solution_file": "solution.py",
+      "submitted_code_retrieved": true,
+      "synced_at": "2026-03-20T21:50:39.190769Z",
+      "title": "Sort Integers by The Number of 1 Bits",
+      "title_slug": "sort-integers-by-the-number-of-1-bits"
+    },
     "special-binary-string": {
       "commit_message": "Add LeetCode solution: Special Binary String",
       "folder_name": "Special Binary String",
