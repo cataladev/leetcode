@@ -1,0 +1,33 @@
+{
+  "difficulty": "Medium",
+  "folder_name": "Longest Balanced Substring I",
+  "frontend_id": "3713",
+  "language": "python3",
+  "leetcode_url": "https://leetcode.com/problems/longest-balanced-substring-i/",
+  "placeholder_reason": null,
+  "solution_file": "solution.py",
+  "submission_fetch_status": "retrieved",
+  "submission_id": "1917343433",
+  "submitted_code_retrieved": true,
+  "synced_at": "2026-03-20T21:50:24.048118Z",
+  "title": "Longest Balanced Substring I",
+  "title_slug": "longest-balanced-substring-i",
+  "topic_tags": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Counting",
+      "slug": "counting"
+    },
+    {
+      "name": "Enumeration",
+      "slug": "enumeration"
+    }
+  ]
+}
