@@ -18,6 +18,15 @@
       "title": "Balance a Binary Search Tree",
       "title_slug": "balance-a-binary-search-tree"
     },
+    "binary-number-with-alternating-bits": {
+      "commit_message": "Add LeetCode solution: Binary Number with Alternating Bits",
+      "folder_name": "Binary Number with Alternating Bits",
+      "solution_file": "solution.py",
+      "submitted_code_retrieved": true,
+      "synced_at": "2026-03-20T21:50:31.641619Z",
+      "title": "Binary Number with Alternating Bits",
+      "title_slug": "binary-number-with-alternating-bits"
+    },
     "binary-watch": {
       "commit_message": "Add LeetCode solution: Binary Watch",
       "folder_name": "Binary Watch",

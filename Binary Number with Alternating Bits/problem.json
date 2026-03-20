@@ -1,0 +1,21 @@
+{
+  "difficulty": "Easy",
+  "folder_name": "Binary Number with Alternating Bits",
+  "frontend_id": "693",
+  "language": "python3",
+  "leetcode_url": "https://leetcode.com/problems/binary-number-with-alternating-bits/",
+  "placeholder_reason": null,
+  "solution_file": "solution.py",
+  "submission_fetch_status": "retrieved",
+  "submission_id": "1922713184",
+  "submitted_code_retrieved": true,
+  "synced_at": "2026-03-20T21:50:31.641619Z",
+  "title": "Binary Number with Alternating Bits",
+  "title_slug": "binary-number-with-alternating-bits",
+  "topic_tags": [
+    {
+      "name": "Bit Manipulation",
+      "slug": "bit-manipulation"
+    }
+  ]
+}
