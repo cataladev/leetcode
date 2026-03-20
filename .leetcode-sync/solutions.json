@@ -1,5 +1,14 @@
 {
   "solutions": {
+    "add-binary": {
+      "commit_message": "Add LeetCode solution: Add Binary",
+      "folder_name": "Add Binary",
+      "solution_file": "solution.py",
+      "submitted_code_retrieved": true,
+      "synced_at": "2026-03-20T21:50:27.915535Z",
+      "title": "Add Binary",
+      "title_slug": "add-binary"
+    },
     "balance-a-binary-search-tree": {
       "commit_message": "Add LeetCode solution: Balance a Binary Search Tree",
       "folder_name": "Balance a Binary Search Tree",

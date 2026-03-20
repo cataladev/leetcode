@@ -1,0 +1,33 @@
+{
+  "difficulty": "Easy",
+  "folder_name": "Add Binary",
+  "frontend_id": "67",
+  "language": "python3",
+  "leetcode_url": "https://leetcode.com/problems/add-binary/",
+  "placeholder_reason": null,
+  "solution_file": "solution.py",
+  "submission_fetch_status": "retrieved",
+  "submission_id": "1920411289",
+  "submitted_code_retrieved": true,
+  "synced_at": "2026-03-20T21:50:27.915535Z",
+  "title": "Add Binary",
+  "title_slug": "add-binary",
+  "topic_tags": [
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Bit Manipulation",
+      "slug": "bit-manipulation"
+    },
+    {
+      "name": "Simulation",
+      "slug": "simulation"
+    }
+  ]
+}
