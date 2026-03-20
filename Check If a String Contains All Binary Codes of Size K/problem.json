@@ -1,0 +1,37 @@
+{
+  "difficulty": "Medium",
+  "folder_name": "Check If a String Contains All Binary Codes of Size K",
+  "frontend_id": "1461",
+  "language": "python3",
+  "leetcode_url": "https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/",
+  "placeholder_reason": null,
+  "solution_file": "solution.py",
+  "submission_fetch_status": "retrieved",
+  "submission_id": "1928965278",
+  "submitted_code_retrieved": true,
+  "synced_at": "2026-03-20T21:50:38.045099Z",
+  "title": "Check If a String Contains All Binary Codes of Size K",
+  "title_slug": "check-if-a-string-contains-all-binary-codes-of-size-k",
+  "topic_tags": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Bit Manipulation",
+      "slug": "bit-manipulation"
+    },
+    {
+      "name": "Rolling Hash",
+      "slug": "rolling-hash"
+    },
+    {
+      "name": "Hash Function",
+      "slug": "hash-function"
+    }
+  ]
+}

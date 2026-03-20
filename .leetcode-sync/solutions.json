@@ -54,6 +54,15 @@
       "title": "Champagne Tower",
       "title_slug": "champagne-tower"
     },
+    "check-if-a-string-contains-all-binary-codes-of-size-k": {
+      "commit_message": "Add LeetCode solution: Check If a String Contains All Binary Codes of Size K",
+      "folder_name": "Check If a String Contains All Binary Codes of Size K",
+      "solution_file": "solution.py",
+      "submitted_code_retrieved": true,
+      "synced_at": "2026-03-20T21:50:38.045099Z",
+      "title": "Check If a String Contains All Binary Codes of Size K",
+      "title_slug": "check-if-a-string-contains-all-binary-codes-of-size-k"
+    },
     "container-with-most-water": {
       "commit_message": "Add LeetCode solution: Container With Most Water",
       "folder_name": "Container With Most Water",
