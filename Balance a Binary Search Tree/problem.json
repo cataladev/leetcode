@@ -1,0 +1,41 @@
+{
+  "difficulty": "Medium",
+  "folder_name": "Balance a Binary Search Tree",
+  "frontend_id": "1382",
+  "language": "python3",
+  "leetcode_url": "https://leetcode.com/problems/balance-a-binary-search-tree/",
+  "placeholder_reason": null,
+  "solution_file": "solution.py",
+  "submission_fetch_status": "retrieved",
+  "submission_id": "1913814682",
+  "submitted_code_retrieved": true,
+  "synced_at": "2026-03-20T21:50:20.043380Z",
+  "title": "Balance a Binary Search Tree",
+  "title_slug": "balance-a-binary-search-tree",
+  "topic_tags": [
+    {
+      "name": "Divide and Conquer",
+      "slug": "divide-and-conquer"
+    },
+    {
+      "name": "Greedy",
+      "slug": "greedy"
+    },
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Depth-First Search",
+      "slug": "depth-first-search"
+    },
+    {
+      "name": "Binary Search Tree",
+      "slug": "binary-search-tree"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ]
+}

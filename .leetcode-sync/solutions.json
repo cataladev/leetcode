@@ -1,5 +1,14 @@
 {
   "solutions": {
+    "balance-a-binary-search-tree": {
+      "commit_message": "Add LeetCode solution: Balance a Binary Search Tree",
+      "folder_name": "Balance a Binary Search Tree",
+      "solution_file": "solution.py",
+      "submitted_code_retrieved": true,
+      "synced_at": "2026-03-20T21:50:20.043380Z",
+      "title": "Balance a Binary Search Tree",
+      "title_slug": "balance-a-binary-search-tree"
+    },
     "container-with-most-water": {
       "commit_message": "Add LeetCode solution: Container With Most Water",
       "folder_name": "Container With Most Water",
