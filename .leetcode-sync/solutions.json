@@ -45,6 +45,15 @@
       "title": "Longest Balanced Substring I",
       "title_slug": "longest-balanced-substring-i"
     },
+    "longest-balanced-substring-ii": {
+      "commit_message": "Add LeetCode solution: Longest Balanced Substring II",
+      "folder_name": "Longest Balanced Substring II",
+      "solution_file": "solution.py",
+      "submitted_code_retrieved": true,
+      "synced_at": "2026-03-20T21:50:25.283288Z",
+      "title": "Longest Balanced Substring II",
+      "title_slug": "longest-balanced-substring-ii"
+    },
     "minimum-deletions-to-make-string-balanced": {
       "commit_message": "Add LeetCode solution: Minimum Deletions to Make String Balanced",
       "folder_name": "Minimum Deletions to Make String Balanced",

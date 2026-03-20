@@ -1,0 +1,29 @@
+{
+  "difficulty": "Medium",
+  "folder_name": "Longest Balanced Substring II",
+  "frontend_id": "3714",
+  "language": "python3",
+  "leetcode_url": "https://leetcode.com/problems/longest-balanced-substring-ii/",
+  "placeholder_reason": null,
+  "solution_file": "solution.py",
+  "submission_fetch_status": "retrieved",
+  "submission_id": "1917541680",
+  "submitted_code_retrieved": true,
+  "synced_at": "2026-03-20T21:50:25.283288Z",
+  "title": "Longest Balanced Substring II",
+  "title_slug": "longest-balanced-substring-ii",
+  "topic_tags": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Prefix Sum",
+      "slug": "prefix-sum"
+    }
+  ]
+}
