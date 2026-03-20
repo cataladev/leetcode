@@ -9,6 +9,15 @@
       "title": "Container With Most Water",
       "title_slug": "container-with-most-water"
     },
+    "minimum-deletions-to-make-string-balanced": {
+      "commit_message": "Add LeetCode solution: Minimum Deletions to Make String Balanced",
+      "folder_name": "Minimum Deletions to Make String Balanced",
+      "solution_file": "solution.py",
+      "submitted_code_retrieved": true,
+      "synced_at": "2026-03-20T21:50:18.724724Z",
+      "title": "Minimum Deletions to Make String Balanced",
+      "title_slug": "minimum-deletions-to-make-string-balanced"
+    },
     "minimum-removals-to-balance-array": {
       "commit_message": "Add LeetCode solution: Minimum Removals to Balance Array",
       "folder_name": "Minimum Removals to Balance Array",

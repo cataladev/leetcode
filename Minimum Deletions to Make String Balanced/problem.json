@@ -1,0 +1,29 @@
+{
+  "difficulty": "Medium",
+  "folder_name": "Minimum Deletions to Make String Balanced",
+  "frontend_id": "1653",
+  "language": "python3",
+  "leetcode_url": "https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/",
+  "placeholder_reason": null,
+  "solution_file": "solution.py",
+  "submission_fetch_status": "retrieved",
+  "submission_id": "1910811604",
+  "submitted_code_retrieved": true,
+  "synced_at": "2026-03-20T21:50:18.724724Z",
+  "title": "Minimum Deletions to Make String Balanced",
+  "title_slug": "minimum-deletions-to-make-string-balanced",
+  "topic_tags": [
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Stack",
+      "slug": "stack"
+    }
+  ]
+}
