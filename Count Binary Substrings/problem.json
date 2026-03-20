@@ -1,0 +1,25 @@
+{
+  "difficulty": "Easy",
+  "folder_name": "Count Binary Substrings",
+  "frontend_id": "696",
+  "language": "python3",
+  "leetcode_url": "https://leetcode.com/problems/count-binary-substrings/",
+  "placeholder_reason": null,
+  "solution_file": "solution.py",
+  "submission_fetch_status": "retrieved",
+  "submission_id": "1926463945",
+  "submitted_code_retrieved": true,
+  "synced_at": "2026-03-20T21:50:32.868649Z",
+  "title": "Count Binary Substrings",
+  "title_slug": "count-binary-substrings",
+  "topic_tags": [
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    }
+  ]
+}
