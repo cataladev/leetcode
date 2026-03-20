@@ -89,6 +89,15 @@
       "synced_at": "2026-03-20T21:50:17.531594Z",
       "title": "Minimum Removals to Balance Array",
       "title_slug": "minimum-removals-to-balance-array"
+    },
+    "reverse-bits": {
+      "commit_message": "Add LeetCode solution: Reverse Bits",
+      "folder_name": "Reverse Bits",
+      "solution_file": "solution.py",
+      "submitted_code_retrieved": true,
+      "synced_at": "2026-03-20T21:50:29.161942Z",
+      "title": "Reverse Bits",
+      "title_slug": "reverse-bits"
     }
   },
   "version": 1

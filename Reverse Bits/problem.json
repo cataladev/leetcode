@@ -1,0 +1,25 @@
+{
+  "difficulty": "Easy",
+  "folder_name": "Reverse Bits",
+  "frontend_id": "190",
+  "language": "python3",
+  "leetcode_url": "https://leetcode.com/problems/reverse-bits/",
+  "placeholder_reason": null,
+  "solution_file": "solution.py",
+  "submission_fetch_status": "retrieved",
+  "submission_id": "1921516576",
+  "submitted_code_retrieved": true,
+  "synced_at": "2026-03-20T21:50:29.161942Z",
+  "title": "Reverse Bits",
+  "title_slug": "reverse-bits",
+  "topic_tags": [
+    {
+      "name": "Divide and Conquer",
+      "slug": "divide-and-conquer"
+    },
+    {
+      "name": "Bit Manipulation",
+      "slug": "bit-manipulation"
+    }
+  ]
+}
