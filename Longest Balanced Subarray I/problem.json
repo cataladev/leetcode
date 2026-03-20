@@ -1,0 +1,37 @@
+{
+  "difficulty": "Medium",
+  "folder_name": "Longest Balanced Subarray I",
+  "frontend_id": "3719",
+  "language": "python3",
+  "leetcode_url": "https://leetcode.com/problems/longest-balanced-subarray-i/",
+  "placeholder_reason": null,
+  "solution_file": "solution.py",
+  "submission_fetch_status": "retrieved",
+  "submission_id": "1914271120",
+  "submitted_code_retrieved": true,
+  "synced_at": "2026-03-20T21:50:21.408134Z",
+  "title": "Longest Balanced Subarray I",
+  "title_slug": "longest-balanced-subarray-i",
+  "topic_tags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Divide and Conquer",
+      "slug": "divide-and-conquer"
+    },
+    {
+      "name": "Segment Tree",
+      "slug": "segment-tree"
+    },
+    {
+      "name": "Prefix Sum",
+      "slug": "prefix-sum"
+    }
+  ]
+}

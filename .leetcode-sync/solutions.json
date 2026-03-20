@@ -18,6 +18,15 @@
       "title": "Container With Most Water",
       "title_slug": "container-with-most-water"
     },
+    "longest-balanced-subarray-i": {
+      "commit_message": "Add LeetCode solution: Longest Balanced Subarray I",
+      "folder_name": "Longest Balanced Subarray I",
+      "solution_file": "solution.py",
+      "submitted_code_retrieved": true,
+      "synced_at": "2026-03-20T21:50:21.408134Z",
+      "title": "Longest Balanced Subarray I",
+      "title_slug": "longest-balanced-subarray-i"
+    },
     "minimum-deletions-to-make-string-balanced": {
       "commit_message": "Add LeetCode solution: Minimum Deletions to Make String Balanced",
       "folder_name": "Minimum Deletions to Make String Balanced",
