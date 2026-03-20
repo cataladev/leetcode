@@ -18,6 +18,15 @@
       "title": "Balance a Binary Search Tree",
       "title_slug": "balance-a-binary-search-tree"
     },
+    "binary-gap": {
+      "commit_message": "Add LeetCode solution: Binary Gap",
+      "folder_name": "Binary Gap",
+      "solution_file": "solution.py",
+      "submitted_code_retrieved": true,
+      "synced_at": "2026-03-20T21:50:36.686949Z",
+      "title": "Binary Gap",
+      "title_slug": "binary-gap"
+    },
     "binary-number-with-alternating-bits": {
       "commit_message": "Add LeetCode solution: Binary Number with Alternating Bits",
       "folder_name": "Binary Number with Alternating Bits",

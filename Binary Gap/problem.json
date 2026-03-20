@@ -1,0 +1,21 @@
+{
+  "difficulty": "Easy",
+  "folder_name": "Binary Gap",
+  "frontend_id": "868",
+  "language": "python3",
+  "leetcode_url": "https://leetcode.com/problems/binary-gap/",
+  "placeholder_reason": null,
+  "solution_file": "solution.py",
+  "submission_fetch_status": "retrieved",
+  "submission_id": "1927852693",
+  "submitted_code_retrieved": true,
+  "synced_at": "2026-03-20T21:50:36.686949Z",
+  "title": "Binary Gap",
+  "title_slug": "binary-gap",
+  "topic_tags": [
+    {
+      "name": "Bit Manipulation",
+      "slug": "bit-manipulation"
+    }
+  ]
+}
