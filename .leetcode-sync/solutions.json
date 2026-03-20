@@ -117,6 +117,15 @@
       "title": "Minimum Removals to Balance Array",
       "title_slug": "minimum-removals-to-balance-array"
     },
+    "prime-number-of-set-bits-in-binary-representation": {
+      "commit_message": "Add LeetCode solution: Prime Number of Set Bits in Binary Representation",
+      "folder_name": "Prime Number of Set Bits in Binary Representation",
+      "solution_file": "solution.py",
+      "submitted_code_retrieved": true,
+      "synced_at": "2026-03-20T21:50:35.411665Z",
+      "title": "Prime Number of Set Bits in Binary Representation",
+      "title_slug": "prime-number-of-set-bits-in-binary-representation"
+    },
     "reverse-bits": {
       "commit_message": "Add LeetCode solution: Reverse Bits",
       "folder_name": "Reverse Bits",

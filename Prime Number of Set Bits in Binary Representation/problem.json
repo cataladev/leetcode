@@ -1,0 +1,25 @@
+{
+  "difficulty": "Easy",
+  "folder_name": "Prime Number of Set Bits in Binary Representation",
+  "frontend_id": "762",
+  "language": "python3",
+  "leetcode_url": "https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/",
+  "placeholder_reason": null,
+  "solution_file": "solution.py",
+  "submission_fetch_status": "retrieved",
+  "submission_id": "1926465071",
+  "submitted_code_retrieved": true,
+  "synced_at": "2026-03-20T21:50:35.411665Z",
+  "title": "Prime Number of Set Bits in Binary Representation",
+  "title_slug": "prime-number-of-set-bits-in-binary-representation",
+  "topic_tags": [
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Bit Manipulation",
+      "slug": "bit-manipulation"
+    }
+  ]
+}
