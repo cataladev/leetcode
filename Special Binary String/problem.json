@@ -1,0 +1,29 @@
+{
+  "difficulty": "Hard",
+  "folder_name": "Special Binary String",
+  "frontend_id": "761",
+  "language": "python3",
+  "leetcode_url": "https://leetcode.com/problems/special-binary-string/",
+  "placeholder_reason": null,
+  "solution_file": "solution.py",
+  "submission_fetch_status": "retrieved",
+  "submission_id": "1926464770",
+  "submitted_code_retrieved": true,
+  "synced_at": "2026-03-20T21:50:34.211105Z",
+  "title": "Special Binary String",
+  "title_slug": "special-binary-string",
+  "topic_tags": [
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Divide and Conquer",
+      "slug": "divide-and-conquer"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ]
+}

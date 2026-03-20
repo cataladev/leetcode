@@ -125,6 +125,15 @@
       "synced_at": "2026-03-20T21:50:29.161942Z",
       "title": "Reverse Bits",
       "title_slug": "reverse-bits"
+    },
+    "special-binary-string": {
+      "commit_message": "Add LeetCode solution: Special Binary String",
+      "folder_name": "Special Binary String",
+      "solution_file": "solution.py",
+      "submitted_code_retrieved": true,
+      "synced_at": "2026-03-20T21:50:34.211105Z",
+      "title": "Special Binary String",
+      "title_slug": "special-binary-string"
     }
   },
   "version": 1
