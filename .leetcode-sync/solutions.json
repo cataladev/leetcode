@@ -27,6 +27,15 @@
       "title": "Longest Balanced Subarray I",
       "title_slug": "longest-balanced-subarray-i"
     },
+    "longest-balanced-subarray-ii": {
+      "commit_message": "Add LeetCode solution: Longest Balanced Subarray II",
+      "folder_name": "Longest Balanced Subarray II",
+      "solution_file": "solution.py",
+      "submitted_code_retrieved": true,
+      "synced_at": "2026-03-20T21:50:22.826794Z",
+      "title": "Longest Balanced Subarray II",
+      "title_slug": "longest-balanced-subarray-ii"
+    },
     "minimum-deletions-to-make-string-balanced": {
       "commit_message": "Add LeetCode solution: Minimum Deletions to Make String Balanced",
       "folder_name": "Minimum Deletions to Make String Balanced",
