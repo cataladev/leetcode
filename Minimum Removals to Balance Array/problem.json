@@ -1,0 +1,33 @@
+{
+  "difficulty": "Medium",
+  "folder_name": "Minimum Removals to Balance Array",
+  "frontend_id": "3634",
+  "language": "python3",
+  "leetcode_url": "https://leetcode.com/problems/minimum-removals-to-balance-array/",
+  "placeholder_reason": null,
+  "solution_file": "solution.py",
+  "submission_fetch_status": "retrieved",
+  "submission_id": "1910720311",
+  "submitted_code_retrieved": true,
+  "synced_at": "2026-03-20T21:50:17.531594Z",
+  "title": "Minimum Removals to Balance Array",
+  "title_slug": "minimum-removals-to-balance-array",
+  "topic_tags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    },
+    {
+      "name": "Sliding Window",
+      "slug": "sliding-window"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ]
+}
