@@ -1,0 +1,33 @@
+{
+  "difficulty": "Medium",
+  "folder_name": "Equal Sum Grid Partition I",
+  "frontend_id": "3546",
+  "language": "python3",
+  "leetcode_url": "https://leetcode.com/problems/equal-sum-grid-partition-i/",
+  "placeholder_reason": null,
+  "solution_file": "solution.py",
+  "submission_fetch_status": "retrieved",
+  "submission_id": "1958403482",
+  "submitted_code_retrieved": true,
+  "synced_at": "2026-03-25T04:05:56.657041Z",
+  "title": "Equal Sum Grid Partition I",
+  "title_slug": "equal-sum-grid-partition-i",
+  "topic_tags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix"
+    },
+    {
+      "name": "Enumeration",
+      "slug": "enumeration"
+    },
+    {
+      "name": "Prefix Sum",
+      "slug": "prefix-sum"
+    }
+  ]
+}

@@ -81,6 +81,15 @@
       "title": "Count Binary Substrings",
       "title_slug": "count-binary-substrings"
     },
+    "equal-sum-grid-partition-i": {
+      "commit_message": "Add LeetCode solution: Equal Sum Grid Partition I",
+      "folder_name": "Equal Sum Grid Partition I",
+      "solution_file": "solution.py",
+      "submitted_code_retrieved": true,
+      "synced_at": "2026-03-25T04:05:56.657041Z",
+      "title": "Equal Sum Grid Partition I",
+      "title_slug": "equal-sum-grid-partition-i"
+    },
     "longest-balanced-subarray-i": {
       "commit_message": "Add LeetCode solution: Longest Balanced Subarray I",
       "folder_name": "Longest Balanced Subarray I",
